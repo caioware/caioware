@@ -10,3 +10,4 @@
 
   ##
 +  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caioware&theme=github)
++  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caioware&theme=github)
