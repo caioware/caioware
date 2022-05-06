@@ -9,10 +9,4 @@
 </div>      
 
   ##
-  
-  
-<a href="https://github.com/appleboy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caioware&show_icons=true&theme=merko&count_private=true" alt="caioware's github stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioware&theme=merko&layout=compact" alt="caioware's github top languages" />
-</a>
-<br/
++  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caioware&theme=github)
