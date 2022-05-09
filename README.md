@@ -9,5 +9,6 @@
 </div>      
 
   ##
++  <a href="https://www.instagram.com/caio_vieira57/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 +  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caioware&theme=github)
 +  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caioware&theme=github)
