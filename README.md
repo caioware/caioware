@@ -1,6 +1,7 @@
 - Olá eu sou Caio Vieira 
 - Estudando Análise e desevolvimento de sistemas (ADS)
-- Open to work 
+- Disponível a trabalho/Open to work 
+- Desenvolvedor em progresso...
 
 <div>
   <a href="https://github.com/caioware">
@@ -10,3 +11,5 @@
 
   ##
   <a href="https://www.instagram.com/caio_vieira57/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/caioware/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href = "mailto:caio.ware@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
