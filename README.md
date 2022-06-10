@@ -1,7 +1,6 @@
 - Olá eu sou Caio Vieira 
 - Estudando Análise e desevolvimento de sistemas (ADS)
-- Disponível a trabalho/Open to work 
-- Desenvolvedor em progresso...
+- Análista de suporte (helpdesk)
 
 <div>
   <a href="https://github.com/caioware">
