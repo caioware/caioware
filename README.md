@@ -1,6 +1,14 @@
-- Olá eu sou Caio Vieira 
-- Estudando Análise e desevolvimento de sistemas (ADS)
-- Análista de suporte (helpdesk)
+Analista de suporte júnior
+
+Atualmente atuando com suporte e sustentação de software, com conhecimento em SQL e banco Oracle e aplicações WEB, conhecimento básico em Linux e Python.
+
+Estudante de ADS (Análise e desenvolvimento de sistemas)
+
+Cursos complementares: SQL + PL/SQL + Modelagem
+
+Informações de contato:
+Tel.: (11)96078-6755
+Email.: caiomkdir@gmail.com
 
 <div>
   <a href="https://github.com/caioware">
